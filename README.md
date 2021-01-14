@@ -9,7 +9,15 @@ I just quit my job on construction to focus on software development.
 
 ### Programming Languages and Tools 🔭🚀🔥
 
-| <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png" width=60> | <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png" width=60> | <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vscode.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Photoshop.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png" width=60> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vscode.png" width=60> |
 | :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 
 <div align="center">
