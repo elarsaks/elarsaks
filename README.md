@@ -1,9 +1,7 @@
-# Hello World 💻 
+# Hello World 💻  
 ![](https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/1*wwSHyk3f6huruTglVgl-Yw.gif)
 
-* 🤔 Interested in Big Data & GIS.
-
-* 🌱 Currently building my skills as a full-stack developer.
+* 🌱 Building my skills as a full-stack developer.
 
 ### Programming Languages and Tools 🔭🚀🔥
 
