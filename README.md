@@ -1,6 +1,6 @@
 # Hello World 💻
 I just quit my job on construction to focus on software development.   
-![](https://miro.medium.com/max/346/1*wwSHyk3f6huruTglVgl-Yw.gif)
+![](https://raw.githubusercontent.com/elarsaks/elarsaks/master/imgages/1*wwSHyk3f6huruTglVgl-Yw.gif)
 
 * 🎓   I have bachelor in Business Information Technology from [Haaga-Helia](https://www.haaga-helia.fi/en).
 
