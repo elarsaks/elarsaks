@@ -2,7 +2,6 @@
 I just quit my job on construction to focus on software development.   
 ![](https://miro.medium.com/max/346/1*wwSHyk3f6huruTglVgl-Yw.gif)
 
-I am currently exploring ...
 * 🎓   I have bachelor in Business Information Technology from [Haaga-Helia](https://www.haaga-helia.fi/en).
 
 * 🤔   Interested in Big Data & GIS.
