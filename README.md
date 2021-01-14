@@ -1,10 +1,10 @@
 # Hello World 💻
 I just quit my job on construction to focus on software development.   
-![](https://raw.githubusercontent.com/elarsaks/elarsaks/master/imgages/1*wwSHyk3f6huruTglVgl-Yw.gif)
+![](https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/1*wwSHyk3f6huruTglVgl-Yw.gif)
 
 * 🎓   I have bachelor in Business Information Technology from [Haaga-Helia](https://www.haaga-helia.fi/en).
 
-* 🤔   Interested in Big Data & GIS.
+* 🤔   I am interested in Big Data.
 
 * 🌱   I am currently enhancing my skills as a full-stack developer.
 
@@ -23,6 +23,4 @@ I just quit my job on construction to focus on software development.
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=elarsaks&&show_icons=true&title_color=c095e3&icon_color=95dfe3&text_color=ffffff&bg_color=231f20" alt="Sabbir's Github Stats" alt="Sabbir's Github Status" />
 </p>
-
-
 </details>
