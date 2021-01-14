@@ -3,11 +3,6 @@
 I just quit my job on construction to focus on software development.  
 ![](https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/1*wwSHyk3f6huruTglVgl-Yw.gif)
 
-I just quit my job on construction to focus on software development.  
-![](https://raw.githubusercontent.com/elarsaks/elarsaks/master/imgages/1*wwSHyk3f6huruTglVgl-Yw.gif)
-
-- 🤔 I am interested in Big Data.
-
 * 🤔 Interested in Big Data & GIS.
 
 * 🌱 I am currently enhancing my skills as a full-stack developer.
