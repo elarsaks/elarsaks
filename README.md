@@ -5,7 +5,7 @@ I just quit my job on construction to focus on software development.
 
 * 🤔 Interested in Big Data & GIS.
 
-* 🌱 I am currently enhancing my skills as a full-stack developer.
+* 🌱 Currently building my skills as a full-stack developer.
 
 ### Programming Languages and Tools 🔭🚀🔥
 
