@@ -7,7 +7,7 @@ I am currently exploring ...
 
 * 🤔   Interested in Big Data & GIS.
 
-* 🌱   I am currently building up my skills as a full-stack developer.
+* 🌱   I am currently enhancing my skills as a full-stack developer.
 
 
 ### Favorite Programming Languages and Tools 🔭🚀🔥
