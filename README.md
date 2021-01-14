@@ -12,9 +12,9 @@ I just quit my job on construction to focus on software development.
 
 * 🌱 I am currently enhancing my skills as a full-stack developer.
 
-### Favorite Programming Languages and Tools 🔭🚀🔥
+### Programming Languages and Tools 🔭🚀🔥
 
-| <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/imgages/vue.png" width=60> | <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/imgages/node.png" width=60> | <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/imgages/vscode.png" width=60> |
+| <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png" width=60> | <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png" width=60> | <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vscode.png" width=60> |
 | :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 
 <div align="center">
