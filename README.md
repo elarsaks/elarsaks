@@ -1,6 +1,4 @@
-# Hello World 💻
-
-I just quit my job on construction to focus on software development.  
+# Hello World 💻 
 ![](https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/1*wwSHyk3f6huruTglVgl-Yw.gif)
 
 * 🤔 Interested in Big Data & GIS.
