@@ -1,7 +1,6 @@
 # Hello World 💻  
+* 🌱 Building my skills as a full-stack developer.  
 ![](https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/1*wwSHyk3f6huruTglVgl-Yw.gif)
-
-* 🌱 Building my skills as a full-stack developer.
 
 ### Programming Languages and Tools 🔭🚀🔥
 
