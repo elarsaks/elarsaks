@@ -11,6 +11,7 @@
 <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png" width=50> |
 <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png" width=50> |
 <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png" width=50> |
+<img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/yaml.png" width=50> |
 <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png" width=50> |
 <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vscode.png" width=50> |
 <img src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png" width=50> 
