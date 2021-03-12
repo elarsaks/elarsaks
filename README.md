@@ -13,7 +13,7 @@ developer and then to continue growing towards data engineering and analytics.
 #### Full-Stack JavaScript portfolio:
 * Live: [Vue](http://35.228.155.3:8080/), [React](http://35.228.155.3:8080/), [Node](http://35.228.155.3:8080/)
 * Source Code: [GitHub](http://35.228.155.3:8080/)  
-**Technologies used:** | Vue | Vuex | React | Redux | Node | Express | Redis | PostgreSQL | Docker | Linux | GCP
+* Technologies used: Vue | Vuex | React | Redux | Node | Express | Redis | PostgreSQL | Docker | Linux | GCP
              
 ### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Portfolio](http://www.elarsaks.com) 
 
