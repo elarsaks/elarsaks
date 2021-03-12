@@ -5,12 +5,14 @@
 I started writing code in 2015, while still doing my degree in Business Administration at Helsinki Business College. I started by
 modifying web page templates and I just got fascinated about design.
 
-My interest in digital media took me to Haaga-Helia to study Business Information Technology. Although I started, loving
+My interest in digital media took me to Haaga-Helia to study Business Information Technology. Although I started loving
 design and aesthetics, the more code I wrote, the more addicted I got to the problem-solving aspect of it. I started
 Haaga-Helia, wanting to be a web designer and ended it wanting to be a full stack developer.
 
 Now that I have my first half a year of industry experience under my belt, I would love to master my skills as a full-stack
-developer before mobing on to bigger and greater things. 
+developer and then move on towards data engineering. 
+
+I just built out my portfolio as a full-stack JavaScript developer and will take some time now to work on my hobby projects before adding some more technologies to my stack. 
 
 #### Full-Stack JavaScript portfolio:
 * Live: [Vue](http://35.228.155.3:8080/), [React](http://35.228.155.3:3000/), [Node](http://35.228.155.3:3001/)
