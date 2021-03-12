@@ -1,5 +1,7 @@
 # Elar Saks 
 
+#### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
+
 I started writing code in 2015, while still doing my degree in Business Administration at Helsinki Business College. I started by
 modifying web page templates and I just got fascinated about design.
 
@@ -19,7 +21,5 @@ developer and then to continue growing towards data engineering and analytics.
 * Live: [React (Docz)](http://playing-cards-tree.s3-website.eu-north-1.amazonaws.com/)
 * Source Code: [GitHub](https://github.com/elarsaks/Front-end-portfolio)  
 * Technologies used: Styled-Components | React | TypeScript | AWS (S3)
-             
-### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Full Portfolio](http://www.elarsaks.com) 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=elarsaks&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
