@@ -11,9 +11,14 @@ Now that I have my first half a year of industry experience under my belt, I wou
 developer and then to continue growing towards data engineering and analytics.
 
 #### Full-Stack JavaScript portfolio:
-* Live: [Vue](http://35.228.155.3:8080/), [React](http://35.228.155.3:8080/), [Node](http://35.228.155.3:8080/)
-* Source Code: [GitHub](http://35.228.155.3:8080/)  
-* Technologies used: Vue | Vuex | React | Redux | Node | Express | Redis | PostgreSQL | Docker | Linux | GCP
+* Live: [Vue](http://35.228.155.3:8080/), [React](http://35.228.155.3:3000/), [Node](http://35.228.155.3:3001/)
+* Source Code: [GitHub]( http://github.com/elarsaks/JavaScript-Portfolio)  
+* Technologies used: Vue | Vuex | React | Redux | Node | Express | Redis | PostgreSQL | Docker | Linux | GCP (VM)
+
+#### Front-End portfolio:
+* Live: [React (Docz)](http://playing-cards-tree.s3-website.eu-north-1.amazonaws.com/)
+* Source Code: [GitHub](https://github.com/elarsaks/Front-end-portfolio)  
+* Technologies used: Styled-Components | React | TypeScript | AWS (S3)
              
 ### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Portfolio](http://www.elarsaks.com) 
 
