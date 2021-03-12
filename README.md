@@ -11,10 +11,8 @@ Now that I have my first half a year of industry experience under my belt, I wou
 developer and then to continue growing towards data engineering and analytics.
 
 #### Full-Stack JavaScript portfolio:
-* Client 1 (Vue): http://35.228.155.3:8080/ 
-* Client 2 (React): http://35.228.155.3:3000/ 
-* Node API: http://35.228.155.3:3001/  
-* Source Code:  https://github.com/elarsaks/JavaScript-Portfolio  
+* Live: [Vue](http://35.228.155.3:8080/), [React](http://35.228.155.3:8080/), [Node](http://35.228.155.3:8080/)
+* Source Code: [GitHub](http://35.228.155.3:8080/)  
 **Technologies used:** | Vue | Vuex | React | Redux | Node | Express | Redis | PostgreSQL | Docker | Linux | GCP
              
 ### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Portfolio](http://www.elarsaks.com) 
