@@ -1,6 +1,6 @@
 # Elar Saks 
 
-### [Portfolio](https://www.elarsaks.com) | [LinkedIn](https://www.elarsaks.com) | [Resume](https://www.elarsaks.com)  
+### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Portfolio](http://www.elarsaks.com) 
 
 
 ### Programming Languages and Tools 🔭🚀🔥
