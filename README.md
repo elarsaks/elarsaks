@@ -10,7 +10,7 @@ design and aesthetics, the more code I wrote, the more addicted I got to the pro
 Haaga-Helia, wanting to be a web designer and ended it wanting to be a full stack developer.
 
 Now that I have my first half a year of industry experience under my belt, I would love to master my skills as a full-stack
-developer and then to continue growing towards data engineering and analytics.
+developer before mobing on to bigger and greater things. 
 
 #### Full-Stack JavaScript portfolio:
 * Live: [Vue](http://35.228.155.3:8080/), [React](http://35.228.155.3:3000/), [Node](http://35.228.155.3:3001/)
