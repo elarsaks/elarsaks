@@ -23,5 +23,3 @@ I just built out my portfolio as a full-stack JavaScript developer and will take
 * Live: [React (Docz)](http://playing-cards-tree.s3-website.eu-north-1.amazonaws.com/)
 * Source Code: [GitHub](https://github.com/elarsaks/Front-end-portfolio)  
 * Technologies used: Styled-Components | React | TypeScript | AWS (S3)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=elarsaks&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
