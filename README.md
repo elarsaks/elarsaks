@@ -17,7 +17,7 @@ I just built out my portfolio as a full-stack JavaScript developer and will take
 #### Full-Stack JavaScript portfolio:
 * Live: [Vue](http://35.228.155.3:8080/), [React](http://35.228.155.3:3000/), [Node](http://35.228.155.3:3001/)
 * Source Code: [GitHub]( http://github.com/elarsaks/JavaScript-Portfolio)  
-* Technologies used: Vue | Vuex | React | Redux | Node | Express | Redis | PostgreSQL | Docker | Linux | AWS (S3)
+* Technologies used: Vue | Vuex | React | Redux | TypeScript | Node | Express | Redis | PostgreSQL | Docker | Linux | AWS (S3)
 
 #### Front-End portfolio:
 * Live: [React (Docz)](http://playing-cards-tree.s3-website.eu-north-1.amazonaws.com/)
