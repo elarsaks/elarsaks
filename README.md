@@ -15,7 +15,7 @@ developer and then move on towards data engineering.
 I just built out my portfolio as a full-stack JavaScript developer and will take some time now to work on my hobby projects before adding some more technologies to my stack. 
 
 #### Full-Stack JavaScript portfolio:
-* Live: [Vue](http://35.228.155.3:8080/), [React](http://35.228.155.3:3000/), [Node](http://35.228.155.3:3001/)
+* Live: [Vue](http://javascript-portfolio-vue-client.s3-website.eu-north-1.amazonaws.com), [React](http://javascript-portfolio-react-client.s3-website.eu-north-1.amazonaws.com), Node (Is not hosted due to unnecessary cost).
 * Source Code: [GitHub]( http://github.com/elarsaks/JavaScript-Portfolio)  
 * Technologies used: Vue | Vuex | React | Redux | TypeScript | Node | Express | Redis | PostgreSQL | Docker | Linux | AWS (S3)
 
