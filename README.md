@@ -3,17 +3,17 @@
 ---
 ### Languages & Tools
 *[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">](https://vuejs.org/)
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png" href="https://reactjs.org/" target="_blank">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">*
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">](https://vuejs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">](https://vuejs.org/)*
 
 <details>
   <summary>📈 My GitHub Stats</summary> 
