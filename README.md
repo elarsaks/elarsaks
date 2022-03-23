@@ -2,7 +2,7 @@
 #### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
 ---
 ### Languages & Tools
-*<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
+*[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">](https://vuejs.org/)
 <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">
 <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">
 <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">
