@@ -2,22 +2,28 @@
 
 #### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
 
-I started writing code in 2015, while still doing my degree in Business Administration at Helsinki Business College. I started by
-modifying web page templates and I just got fascinated about design.
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png"></code>
 
-My interest in digital media took me to Haaga-Helia to study Business Information Technology. Although I started loving
-design and aesthetics, the more code I wrote, the more addicted I got to the problem-solving aspect of it. I started
-Haaga-Helia, wanting to be a web designer and ended it wanting to be a full stack developer.
-
-Now that I have my first half a year of industry experience under my belt, I would love to master my skills as a full-stack
-developer and then move on towards data engineering. 
-
-I just built out my portfolio as a full-stack JavaScript developer and will take some time now to work on my hobby projects before adding some more technologies to my stack. 
 
 #### Full-Stack JavaScript portfolio:
 * Live: [Vue](http://javascript-portfolio-vue-client.s3-website.eu-north-1.amazonaws.com), [React](http://javascript-portfolio-react-client.s3-website.eu-north-1.amazonaws.com), Node: Back-end kept getting hacked by crypto miners and is therefore down.
 * Source Code: [GitHub]( http://github.com/elarsaks/JavaScript-Portfolio)  
 * Technologies used: Vue | Vuex | React | Redux | TypeScript | Node | Express | Redis | PostgreSQL | Docker | Linux | AWS (S3)
+
+
+
 
 #### Front-End portfolio:
 * Live: [React (Docz)](http://playing-cards-tree.s3-website.eu-north-1.amazonaws.com/)
