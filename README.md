@@ -25,7 +25,6 @@
 
 ---
 
-### Example Projects
 #### Full-Stack JavaScript portfolio:
 * Live: [Vue](http://javascript-portfolio-vue-client.s3-website.eu-north-1.amazonaws.com), [React](http://javascript-portfolio-react-client.s3-website.eu-north-1.amazonaws.com), Node: Back-end kept getting hacked by crypto miners and is therefore down.
 * Source Code: [GitHub]( http://github.com/elarsaks/JavaScript-Portfolio)  
