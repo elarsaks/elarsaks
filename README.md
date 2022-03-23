@@ -3,10 +3,10 @@
 ---
 ### Languages & Tools
 <p align="left">
-  <a href="https://vuejs.org/" target="_blank">
+  <a href="https://vuejs.org/">
     <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/">
     <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">
   </a>
   <a href="https://www.typescriptlang.org/">
