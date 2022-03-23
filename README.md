@@ -2,8 +2,8 @@
 
 #### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
 
-**Languages and Tools:**  
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
+#### Languages & Tools
+*<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
 <img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">
 <img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">
 <img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">
@@ -14,7 +14,7 @@
 <img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">
 <img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">
 <img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">
+<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">*
 
 
 #### Full-Stack JavaScript portfolio:
