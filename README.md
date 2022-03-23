@@ -2,18 +2,44 @@
 #### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
 ---
 ### Languages & Tools
-*[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">](https://reactjs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">](https://www.typescriptlang.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">](https://graphql.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">](https://redis.io/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png">](https://nodejs.org/en/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png">](https://www.postgresql.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png">](https://www.linux.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">](https://www.docker.com/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">](https://aws.amazon.com/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">](https://cloud.google.com/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">](https://azure.microsoft.com/)*
+<p align="left">
+  <a href="https://vuejs.org/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
+  </a>
+  <a href="https://reactjs.org/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">
+  </a>
+  <a href="https://graphql.org/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">
+  </a>
+  <a href="https://redis.io/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">
+  </a>
+  <a href="https://nodejs.org/en/">
+   <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png">
+  </a>
+  <a href="https://www.postgresql.org/">
+   <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png">
+  </a>
+  <a href="https://www.linux.org/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png">
+  </a>
+  <a href="https://www.docker.com/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">
+  </a>
+  <a href="https://cloud.google.com/">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">
+  </a>
+    <a href="https://azure.microsoft.com/">
+   <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">
+  </a>
+</p>
 
 ---
 <details>
