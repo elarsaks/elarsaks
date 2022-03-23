@@ -3,17 +3,17 @@
 ---
 ### Languages & Tools
 *[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">](https://vuejs.org/)
-[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">](https://vuejs.org/)*
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">](https://reactjs.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">](https://www.typescriptlang.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">](https://graphql.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">](https://redis.io/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png">](https://nodejs.org/en/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png">](https://www.postgresql.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png">](https://www.linux.org/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">](https://www.docker.com/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">](https://aws.amazon.com/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">](https://cloud.google.com/)
+[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">](https://azure.microsoft.com/)*
 
 <details>
   <summary>📈 My GitHub Stats</summary> 
