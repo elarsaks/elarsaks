@@ -1,5 +1,5 @@
 # Elar Saks 
-#### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
+### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
 ---
 ### Languages & Tools
 *<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
