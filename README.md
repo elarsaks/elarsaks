@@ -16,7 +16,9 @@
 [<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">](https://azure.microsoft.com/)*
 
 ---
+<details>
+  <summary>📈 My GitHub Stats</summary> 
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=elarsaks&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />  
 
-### GitHub Stats
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=elarsaks&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarsaks&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarsaks&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+</details>
