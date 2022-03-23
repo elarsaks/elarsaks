@@ -2,18 +2,18 @@
 #### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
 ---
 ### Languages & Tools
-*<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">
-<img height="20" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">*
+*<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/node.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Postgres.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/linux.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/docker.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/aws.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/azure.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">*
 
 <details>
   <summary>📈 My GitHub Stats</summary> 
