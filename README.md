@@ -1,5 +1,5 @@
 # Elar Saks 
-### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
+#### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](http://elar-saks.info/) | [Website](http://www.elarsaks.com) 
 ---
 ### Languages & Tools
 *<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
@@ -25,7 +25,7 @@
 
 ---
 
-## PORTFOLIO
+### Example Projects
 #### Full-Stack JavaScript portfolio:
 * Live: [Vue](http://javascript-portfolio-vue-client.s3-website.eu-north-1.amazonaws.com), [React](http://javascript-portfolio-react-client.s3-website.eu-north-1.amazonaws.com), Node: Back-end kept getting hacked by crypto miners and is therefore down.
 * Source Code: [GitHub]( http://github.com/elarsaks/JavaScript-Portfolio)  
