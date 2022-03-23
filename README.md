@@ -3,7 +3,7 @@
 ---
 ### Languages & Tools
 *[<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">](https://vuejs.org/)
-<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png">
+<img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/react.png" href="https://reactjs.org/" target="_blank">
 <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">
 <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">
 <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">
