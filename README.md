@@ -3,7 +3,7 @@
 ---
 ### Languages & Tools
 <p align="left">
-    <a href="https://www.adobe.com/fi/products/photoshop.html">
+   <a href="https://www.adobe.com/fi/products/photoshop.html">
     <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Photoshop.png">
   </a>
   <a href="www.figma.com">
@@ -45,7 +45,7 @@
     <a href="https://azure.microsoft.com/">
    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/gcp.png">
   </a>
-       <a href="www.github.com">
+  <a href="www.github.com">
    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/github.png">
   </a>
 </p>
