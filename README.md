@@ -13,7 +13,7 @@
     <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/TypeScript.png">
   </a>
   <a href="https://graphql.org/">
-    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphQl.png">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/graphql.png">
   </a>
   <a href="https://redis.io/">
     <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/redis.png">
