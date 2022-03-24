@@ -3,6 +3,12 @@
 ---
 ### Languages & Tools
 <p align="left">
+    <a href="https://www.adobe.com/fi/products/photoshop.html">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/Photoshop.png">
+  </a>
+  <a href="www.figma.com">
+    <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/figma.png">
+  </a>
   <a href="https://vuejs.org/">
     <img height="30" src="https://raw.githubusercontent.com/elarsaks/elarsaks/master/images/vue.png">
   </a>
