@@ -1,25 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-<!-- SEO Improvements: Meta Tags -->
-<meta name="description" content="Elar Saks, a full-stack web developer from Finland, demonstrates his skills through a variety of projects. Explore his work on GitHub.">
-<meta name="keywords" content="Elar Saks, Web Developer, Software Developer, Finland, Full-stack, JavaScript, Go, TypeScript, Java, React, Blockchain">
-<meta name="author" content="Elar Saks">
 
-<!-- Open Graph / Social Media Meta Tags -->
-<meta property="og:title" content="GitHub Profile of Elar Saks">
-<meta property="og:description" content="Elar Saks, a full-stack web developer from Finland, demonstrates his skills through a variety of projects. Explore his work on GitHub.">
-<meta property="og:url" content="saks.digital">
-<meta property="og:type" content="website">
-<!-- You can also add an image preview for social media with og:image -->
-<!-- <meta property="og:image" content="URL TO THE IMAGE"> -->
+  <!-- SEO Improvements: Meta Tags -->
+  <meta name="description"
+    content="Elar Saks, a full-stack web developer from Finland, demonstrates his skills through a variety of projects. Explore his work on GitHub.">
+  <meta name="keywords"
+    content="Elar Saks, Web Developer, Software Developer, Finland, Full-stack, JavaScript, Go, TypeScript, Java, React, Blockchain">
+  <meta name="author" content="Elar Saks">
 
-<title>GitHub Profile of Elar Saks</title>
+  <!-- Open Graph / Social Media Meta Tags -->
+  <meta property="og:title" content="GitHub Profile of Elar Saks">
+  <meta property="og:description"
+    content="Elar Saks, a full-stack web developer from Finland, demonstrates his skills through a variety of projects. Explore his work on GitHub.">
+  <meta property="og:url" content="saks.digital">
+  <meta property="og:type" content="website">
+  <!-- You can also add an image preview for social media with og:image -->
+  <!-- <meta property="og:image" content="URL TO THE IMAGE"> -->
 
-  
+  <title>GitHub Profile of Elar Saks</title>
+
+
   <style>
     html,
     body {
@@ -35,55 +39,48 @@
     }
   </style>
 </head>
+
 <body>
   <div id="canvas-container"></div>
-
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
   <script>
-   // Initialize scene, camera, and renderer
-const scene = new THREE.Scene();
-const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setSize(window.innerWidth, window.innerHeight);
+    // Initialize scene, camera, and renderer  
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.getElementById('canvas-container').appendChild(renderer.domElement);
 
-const canvasContainer = document.getElementById('canvas-container');
-canvasContainer.appendChild(renderer.domElement);
+    // Create a sphere with a wireframe material and add it to the scene
+    const geometry = new THREE.SphereGeometry(1, 32, 32);
+    const material = new THREE.MeshBasicMaterial({ wireframe: true, color: "#00ADD8" });
+    const sphere = new THREE.Mesh(geometry, material);
+    scene.add(sphere);
 
-// Create a cube to represent the whole webpage
-const geometry = new THREE.BoxGeometry(1, 2, 0.05);
-const material = new THREE.MeshBasicMaterial({ wireframe: true, color: 0x0074D9 });
-const webpage = new THREE.Mesh(geometry, material);
-scene.add(webpage);
+    // Set camera position
+    camera.position.z = 5;
 
-// Create a smaller cube to represent an individual component (like a pinned repo)
-const repoGeometry = new THREE.BoxGeometry(0.8, 0.2, 0.05);
-const repoMaterial = new THREE.MeshBasicMaterial({ wireframe: true, color: 0x2E8B57 });
-const repo = new THREE.Mesh(repoGeometry, repoMaterial);
-repo.position.y = 0.8; // Adjust this value to move the repo up or down
-webpage.add(repo);
+    // Animation loop
+    function animate() {
+      requestAnimationFrame(animate);
 
-// Set camera position
-camera.position.z = 3;
+      // Rotate the sphere
+      sphere.rotation.x += 0.01;
+      sphere.rotation.y += 0.01;
 
-// Animation loop
-function animate() {
-  requestAnimationFrame(animate);
+      // Render the scene with the camera
+      renderer.render(scene, camera);
+    }
 
-  // Rotate the webpage
-  webpage.rotation.y += 0.01;
+    // Start the animation loop
+    animate();
 
-  // Render the scene with the camera
-  renderer.render(scene, camera);
-}
-
-// Start the animation loop
-animate();
-
-// Redirect to GitHub profile when the canvas is clicked
-canvasContainer.addEventListener('click', function() {
-  window.location.href = 'https://github.com/elarsaks/';
-});
-
+    // Add event listener for click event to redirect to GitHub profile
+    document.getElementById('canvas-container').addEventListener('click', function () {
+      window.location.href = 'https://github.com/elarsaks/';
+    });
+  </script>
   </script>
 </body>
+
 </html>
