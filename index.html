@@ -52,13 +52,14 @@
     document.getElementById('canvas-container').appendChild(renderer.domElement);
 
     // Create a sphere with a wireframe material and add it to the scene
-    const geometry = new THREE.SphereGeometry(1, 32, 32);
+    const geometry = new THREE.SphereGeometry(1, 21, 21);
     const material = new THREE.MeshBasicMaterial({ wireframe: true, color: "#00ADD8" });
     const sphere = new THREE.Mesh(geometry, material);
+
     scene.add(sphere);
 
     // Set camera position
-    camera.position.z = 5;
+    camera.position.z = 1;
 
     // Animation loop
     function animate() {
@@ -66,8 +67,6 @@
 
       // Rotate the sphere
       sphere.rotation.x += 0.01;
-      sphere.rotation.y += 0.01;
-
       // Render the scene with the camera
       renderer.render(scene, camera);
     }
