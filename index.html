@@ -41,45 +41,96 @@
 </head>
 
 <body>
-  <div id="canvas-container"></div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-  <script>
-    // Initialize scene, camera, and renderer  
-    const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-    const renderer = new THREE.WebGLRenderer({ antialias: true });
-    renderer.setSize(window.innerWidth, window.innerHeight);
-    document.getElementById('canvas-container').appendChild(renderer.domElement);
+  <h1>Elar Saks</h1>
+  <h2>Software Developer</h2>
+  <p>Contact: +358 4070 78489</p>
+  <p>Email: elarsaks@gmail.com</p>
 
-    // Create a sphere with a wireframe material and add it to the scene
-    const geometry = new THREE.SphereGeometry(1, 21, 21);
-    const material = new THREE.MeshBasicMaterial({ wireframe: true, color: "#00ADD8" });
-    const sphere = new THREE.Mesh(geometry, material);
+  <h2>Work Experience</h2>
+  <h3>Votech - Software Developer</h3>
+  <p>10/2021 – ongoing</p>
+  <ul>
+    <li>Design and build user interfaces, develop API-s endpoints and data storage solutions</li>
+    <li>Notable contributions:
+      <ul>
+        <li>Set up Redis Cache</li>
+        <li>Containerized companies applications</li>
+        <li>Built inhouse tool, leveraging Hasura ORM</li>
+        <li>Set up ELK stack for the application logs</li>
+      </ul>
+    </li>
+    <li>Technologies: JavaScript, TypeScript, Vue (2 & 3), Nuxt, Node, Apollo, GraphQL, Hasura, PostgreSQL, Redis,
+      Azure, Docker & Docker Compose, Logstash, Elasticsearch, Kibana</li>
+  </ul>
 
-    scene.add(sphere);
+  <h3>Edita Publishing - Software Developer Trainee</h3>
+  <p>01/2020 – 06/2020</p>
+  <ul>
+    <li>Built user interfaces and REST API-s, based on senior team members’ specifications</li>
+    <li>Worked as a member of an agile development team participating in the daily-, sprint- and monthly meetings</li>
+    <li>Technologies: JavaScript (Vue, Node), PostgreSQL, Docker, Linux, Github, Slack, Jira etc</li>
+  </ul>
 
-    // Set camera position
-    camera.position.z = 1;
+  <!-- Continuing from the previous HTML snippet -->
 
-    // Animation loop
-    function animate() {
-      requestAnimationFrame(animate);
+  <h2>Education</h2>
+  <h3>Haaga-Helia - Bachelor of Business Information Technology</h3>
+  <p>08/2015 – 06/2019</p>
+  <ul>
+    <li>Studied Business Information Technology with a focus on software development</li>
+    <li>Graduated with 258 credits out of 210 required</li>
+  </ul>
 
-      // Rotate the sphere
-      sphere.rotation.x += 0.01;
-      // Render the scene with the camera
-      renderer.render(scene, camera);
-    }
+  <h3>Hang Seng Management College - Exchange student</h3>
+  <p>01/2018 – 06/2018</p>
+  <ul>
+    <li>Exchange student, took courses on data analytics and software design</li>
+  </ul>
 
-    // Start the animation loop
-    animate();
+  <h3>Helsinki Business College - Associate Degree in Business Administration</h3>
+  <p>08/2013 – 06/2015</p>
+  <ul>
+    <li>Learned the fundamentals of International Trade, Marketing Communication, Business Operations, and CRM</li>
+    <li>Graduated with European Business Baccalaureate Diploma (EBBD)</li>
+  </ul>
 
-    // Add event listener for click event to redirect to GitHub profile
-    document.getElementById('canvas-container').addEventListener('click', function () {
-      window.location.href = 'https://github.com/elarsaks/';
-    });
-  </script>
-  </script>
+  <h2>Volunteering</h2>
+  <h3>European Innovation Academy - Volunteer</h3>
+  <p>07/2014 – 07/2015</p>
+  <ul>
+    <li>Assisted the COO in day-to-day operations with tasks including technical support</li>
+  </ul>
+
+  <h3>Slush - Wardrobe team</h3>
+  <p>01/2017</p>
+  <ul>
+    <li>Assisted with wardrobe setup and organization for event attendees</li>
+    <li>Managed clothing check-in and check-out process</li>
+    <li>Collaborated with team members to ensure a smooth and efficient wardrobe experience for guests</li>
+    <li>Provided excellent customer service to attendees with wardrobe needs</li>
+  </ul>
+
+  <h2>Technologies</h2>
+  <ul>
+    <li>Design: Photoshop, Figma(Weak), CSS, SASS, Styled Components, Vuetify</li>
+    <li>Programming: JavaScript: (Vue, React, Node, TypeScript), Golang (weak), Python (weak)</li>
+    <li>Databases: SQL, Redis, Hasura, Elasticsearch</li>
+    <li>DevOps: Linux, Docker, Docker Compose, Github, GitHub Actions, Nginx, Azure</li>
+  </ul>
+
+  <h2>Languages</h2>
+  <ul>
+    <li>Estonian: spoken - native, written - native</li>
+    <li>English: spoken - good, written - good</li>
+    <li>Finnish: spoken - good, written - basic</li>
+    <li>Russian: spoken - basic, written - none</li>
+  </ul>
+
+  <h2>Certificates</h2>
+  <ul>
+    <li>Microsoft Azure Fundamentals: 01/2022 – No Expiration Date</li>
+  </ul>
+
 </body>
 
 </html>
