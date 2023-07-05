@@ -1,6 +1,6 @@
 # <h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞! </h2>
 I am a full-stack web developer working from Finland.
-#### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](https://saks.digital/wp-content/uploads/2023/04/Elar-Saks-CV.pdf) | [Website](https://saks.digital) 
+#### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](https://saks.digital/wp-content/uploads/2023/07/Elar-Saks-CV-English.pdf) | [Website](https://saks.digital) 
 ---
 ### Languages & Tools
 <p align="left">
