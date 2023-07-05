@@ -1,6 +1,10 @@
-# <h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞! </h2>
+# <h2> 𝐇i T𝐡𝐞𝐫𝐞! </h2>
 I am a full-stack web developer working from Finland.
+
+Currently, I'm teaching myself Golang and Blockchain through a pet project called [Go-Blockchain](https://github.com/elarsaks/Go-blockchain). Feel free to check it out!
+
 #### [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](https://saks.digital/wp-content/uploads/2023/07/Elar-Saks-CV-English.pdf) | [Website](https://saks.digital) 
+
 ---
 ### Languages & Tools
 <p align="left">
