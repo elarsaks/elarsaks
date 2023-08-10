@@ -7,10 +7,10 @@ I love working in startups, where I can enjoy freedom and responsibility in my w
 Vue / Nuxt | REST / GraphQL | Node JS | PostgreSQL | Docker | Linux | Azure
 
 𝗠𝘆 𝘀𝗲𝗰𝗼𝗻𝗱𝗮𝗿𝘆 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸 (𝗮𝗰𝘂𝗶𝗿𝗲𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗵𝗼𝗯𝗯𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀): 👇  
-React | REST/GraphQL | Golang | Redis| PostgreSQL | Docker | Linux | Azure
+React | REST/GraphQL | Golang | Redis| PostgreSQL | Docker | Linux | AWS
 
 𝗢𝘁𝗵𝗲𝗿 𝘁𝗲𝗰𝗵 𝘁𝗵𝗮𝘁 𝗜 𝗵𝗮𝘃𝗲 𝗵𝗮𝗱 𝗰𝗵𝗮𝗻𝗰𝗲 𝘁𝗼 𝘁𝗼𝘂𝗰𝗵 (𝘄𝗼𝗿𝗸 & 𝗵𝗼𝗯𝗯𝗶𝗲𝘀): 👇  
-Python | Logstash | Elasticsearch | Kibana | Hasura | GCP | AWS | Blockchain
+Python | Logstash | Elasticsearch | Kibana | Hasura | GCP | Blockchain
 
 𝗠𝘆 𝗹𝗮𝘁𝗲𝘀𝘁 𝗵𝗼𝗯𝗯𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁: 👇    
 Live: [https://elarsaks.github.io/Go-blockchain](https://elarsaks.github.io/Go-blockchain/)  
