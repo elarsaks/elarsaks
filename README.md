@@ -16,7 +16,6 @@ Python | Logstash | Elasticsearch | Kibana | Hasura | GCP | Blockchain
 | Project | Description | Live Demo | Source Code | Image |
 |---------|-------------|-----------|-------------|-------|
 | **Gorilla Labs** | I was just playing around with Next.js to gain some experience, and as it turns out, I am building an NFT platform with it. | [Live Demo](https://gorilla-labs-sandbox.org/) | [Source Code](https://github.com/elarsaks/gorilla-labs) | <img src="https://raw.githubusercontent.com/elarsaks/gorilla-labs/main/client/public/assets/logo.png" width="100"> |
-| **React Hooks** | While developing 𝙂𝙤 𝘽𝙡𝙤𝙘𝙠𝙘𝙝𝙖𝙞𝙣, I realised that my knowledge of React's lifecycle methods wasn't translating effectively to the use of 𝙍𝙚𝙖𝙘𝙩 𝙃𝙤𝙤𝙠𝙨. Therefore, I decided to create this small project as a learning exercise. | [Live Demo](https://elarsaks.github.io/react-hooks/) | [Source Code](https://github.com/elarsaks/react-hooks) | <img src="https://raw.githubusercontent.com/elarsaks/react-hooks/main/public/some.png" width="100"> |
 | **Go blockchain** | A Docker-based blockchain application that I built to gain some exposure to Golang and React while learning about blockchain logic. | [Live Demo](https://elarsaks.github.io/Go-blockchain/) | [Source Code](https://github.com/elarsaks/Go-blockchain) | <img src="https://camo.githubusercontent.com/771ea77a0c5e29536d10b53260a7193d84fdd420b3297300ac8b5f4b25efa7ad/68747470733a2f2f73616b732e6469676974616c2f77702d636f6e74656e742f75706c6f6164732f323032332f30372f736f6d652e706e67" width="100"> |
 
 
