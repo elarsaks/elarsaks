@@ -10,7 +10,7 @@ Vue / Nuxt | REST / GraphQL | Node JS | PostgreSQL | Docker | Linux | Azure (App
 React | REST/GraphQL | Golang | Redis| PostgreSQL | Docker | Linux | AWS (Elastic Beanstalk, S3, Route 53, Lightsail, IAM)
 
 𝗢𝘁𝗵𝗲𝗿 𝘁𝗲𝗰𝗵 𝘁𝗵𝗮𝘁 𝗜 𝗵𝗮𝘃𝗲 𝗵𝗮𝗱 𝗰𝗵𝗮𝗻𝗰𝗲 𝘁𝗼 𝘁𝗼𝘂𝗰𝗵 (𝘄𝗼𝗿𝗸 & 𝗵𝗼𝗯𝗯𝗶𝗲𝘀): 👇  
-Python | Logstash | ELK Stack | Hasura | Blockchain | GCP (Buckets, VMs)
+Python | Logstash | ELK Stack | Hasura | Blockchain  | Terraform | GCP (Buckets, VMs)
 <br><br/>
 
 𝗦𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝗵𝗼𝗯𝗯𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀: 👇    
