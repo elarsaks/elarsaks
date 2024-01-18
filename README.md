@@ -26,6 +26,6 @@ Python | Logstash | ELK Stack | Hasura | Blockchain  | Terraform | GCP (Buckets,
 𝗠𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📈   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarsaks&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-####  Find out more about me:  [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](https://saks.digital/wp-content/uploads/2023/07/Elar-Saks-CV-English.pdf) | [Website](https://saks.digital)
+####  Find out more about me:  [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](https://saks.digital/static/media/Elar%20Saks%20(CV).3466260878db5098dbb8.pdf) | [Website](https://saks.digital)
 
 
