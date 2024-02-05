@@ -4,10 +4,10 @@ I am a Full-Stack Developer with 2.5 years of industry experience.
 I love working in startups, where I can enjoy freedom and responsibility in my work.
 
 𝗠𝘆 𝗽𝗿𝗶𝗺𝗮𝗿𝘆 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸 (𝗮𝗰𝘂𝗶𝗿𝗲𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝘄𝗼𝗿𝗸 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲): 👇  
-Vue / Nuxt | REST / GraphQL | Node JS | PostgreSQL | Docker | Linux | Azure (App Services, Containers, Functions, Blob Storage)
+Vue / Nuxt | REST / GraphQL | Node JS | PostgreSQL | Docker | Linux | Azure (App Services, Containers, Functions, Blob Storage & ...)
 
 𝗠𝘆 𝘀𝗲𝗰𝗼𝗻𝗱𝗮𝗿𝘆 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸 (𝗮𝗰𝘂𝗶𝗿𝗲𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗵𝗼𝗯𝗯𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀): 👇  
-React | REST/GraphQL | Golang | Redis| PostgreSQL | Docker | Linux | AWS (Elastic Beanstalk, S3, Route 53, Lightsail, IAM)
+React | REST/GraphQL | Golang | Redis| PostgreSQL | Docker | Linux | AWS (Elastic Beanstalk, EC2, S3, Route 53, Lightsail, IAM & ...)
 
 𝗢𝘁𝗵𝗲𝗿 𝘁𝗲𝗰𝗵 𝘁𝗵𝗮𝘁 𝗜 𝗵𝗮𝘃𝗲 𝗵𝗮𝗱 𝗰𝗵𝗮𝗻𝗰𝗲 𝘁𝗼 𝘁𝗼𝘂𝗰𝗵 (𝘄𝗼𝗿𝗸 & 𝗵𝗼𝗯𝗯𝗶𝗲𝘀): 👇  
 Python | Logstash | ELK Stack | Hasura | Blockchain  | Terraform | GCP (Buckets, VMs)
