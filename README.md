@@ -1,6 +1,6 @@
 # 👋 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙬𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚!
 
-#### I am a Full-Stack Developer.
+#### I am a Software Developer.
 
 ####  Find out more about me:  [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [Resume](https://saks.digital/static/media/Elar%20Saks%20(CV).3466260878db5098dbb8.pdf) | [Website](https://saks.digital)
 
