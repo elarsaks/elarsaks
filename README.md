@@ -2,7 +2,7 @@
 
 #### I am a Software Developer.
 
-####  Find out more about me:  [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [CV](https://saks.digital/static/media/Elar%20Saks%20(CV).a9ac945ee590d06b276f.pdf) | [Portfolio](https://saks.digital)
+####  Find out more about me:  [LinkedIn](http://www.linkedin.com/in/elarsaks/) | [CV](https://elarsaks.github.io/CV/Elar%20Saks%20(CV).pdf) | [Portfolio](https://saks.digital)
 
 #### 𝗦𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝗵𝗼𝗯𝗯𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀: 👇    
 | Project | Description | Demo | Source Code | Image |
